@@ -80,7 +80,7 @@ Hello! I am John Albert Y. Villanueva an aspiring student who wants to become in
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+
   
 
 <br/>  
