@@ -85,8 +85,6 @@ Hello! I am John Albert Y. Villanueva an aspiring student who wants to become in
 
 <br/>  
 
-<img src="https://github-readme-stats.vercel.app/api?username=AngryBert09&show_icons=true&count_private=true&hide_border=true" align="left" />
-<br />
 
 ----
 
