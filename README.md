@@ -24,7 +24,7 @@ Hello! I am John Albert Y. Villanueva an aspiring student who wants to become in
 <br/>  
 
 
-## Rapidfire  
+## OTHER INFO
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m still a student.  
