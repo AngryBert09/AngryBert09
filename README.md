@@ -66,16 +66,13 @@ Hello! I am John Albert Y. Villanueva an aspiring student who wants to become in
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AngryBert09&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AngryBert09&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AngryBert09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://github-readme-stats.vercel.app/api?username=AngryBert09&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngryBert09&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
+---
+[![](https://visitcount.itsvg.in/api?id=AngryBert09&icon=2&color=12)](https://visitcount.itsvg.in)
 
 <br/>  
 
