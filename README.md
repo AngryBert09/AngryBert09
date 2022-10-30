@@ -1,5 +1,5 @@
 [![MasterHead](https://p4.wallpaperbetter.com/wallpaper/859/301/85/angry-birds-red-hd-wallpaper-preview.jpg)](https://www.facebook.com/albrtsuperduper/)
-                                                     ## Hey 👋, I'm Angry Bert!😇  
+ ## Hey 👋, I'M ANGRY BERT! 🐦 
   
 
 <a href="https://github.com/AngryBert09" target="_blank">
