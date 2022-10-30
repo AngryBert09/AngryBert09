@@ -1,4 +1,4 @@
-[![MasterHead](https://p4.wallpaperbetter.com/wallpaper/859/301/85/angry-birds-red-hd-wallpaper-preview.jpg)](https://www.facebook.com/albrtsuperduper/)
+[![MasterHead](https://media4.giphy.com/media/3oEdv6UfpU2K6jHot2/giphy.gif)](https://www.facebook.com/albrtsuperduper/)
  ## Hey 👋, I'M ANGRY BERT! 🐦 
   
 
