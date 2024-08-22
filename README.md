@@ -19,8 +19,7 @@
 
 
 ### Glad to see you here!  
-Hello! I am John Albert Y. Villanueva, an aspiring student who wants to work in the tech industry. I still don't know where I belong in the field of information technology. But I'll assure you that I'm doing my best and trying different fields.  
-  
+Hello! I am John Albert Y. Villanueva, an aspiring student who wants to work in the tech industry. 
 
 <br/>  
 
